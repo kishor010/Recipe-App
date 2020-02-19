@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<CategoryType>
+  <Category>
+      <id>1</id>
+      <categoryName>Breads</categoryName>
+  </Category>
+  <Category>
+      <id>2</id>
+      <categoryName>Lunch</categoryName>
+  </Category>
+  <Category>
+      <id>3</id>
+      <categoryName>Brunch</categoryName>
+  </Category>
+  <Category>
+      <id>4</id>
+      <categoryName>Appetisers</categoryName>
+  </Category>
+  <Category>
+      <id>5</id>
+      <categoryName>Beverages</categoryName>
+  </Category>
+  <Category>
+      <id>6</id>
+      <categoryName>Pizza</categoryName>
+  </Category>
+  <Category>
+      <id>7</id>
+      <categoryName>Rice</categoryName>
+  </Category>
+  <Category>
+      <id>8</id>
+      <categoryName>Other</categoryName>
+  </Category>
+</CategoryType>
