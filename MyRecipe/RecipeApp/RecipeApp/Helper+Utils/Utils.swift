@@ -3,7 +3,7 @@
 //  ReceipeApp
 //
 //  Created by Kishor Pahalwani on 18/02/20.
-//  Copyright © 2020 fourtitude. All rights reserved.
+//  Copyright © 2020 Kishor Pahalwani. All rights reserved.
 //
 
 import UIKit
