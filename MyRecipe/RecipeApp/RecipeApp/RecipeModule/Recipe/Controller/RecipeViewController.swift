@@ -62,7 +62,7 @@ class RecipeViewController: UIViewController {
         isPickerViewHidden(isHidden: true)
         pickerView.delegate = self
         pickerView.dataSource = self
-        pickerView.showsSelectionIndicator = true
+        //pickerView.showsSelectionIndicator = true
         pickerViewHeight.constant = (self.view.bounds.height / 2) - 60
     }
     

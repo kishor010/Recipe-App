@@ -9,7 +9,7 @@
 import UIKit
 import Photos
 
-protocol RecipeAddedProtocol: class {
+protocol RecipeAddedProtocol: AnyObject {
     func addedRecipe(success: Bool)
 }
 
@@ -39,7 +39,7 @@ class AddCategoryViewController: UIViewController {
         isPickerViewHidden(isHidden: true)
         picker.delegate = self
         picker.dataSource = self
-        picker.showsSelectionIndicator = true
+        //picker.showsSelectionIndicator = true
         pickerHeight.constant = (self.view.bounds.height / 2) - 60
     }
     

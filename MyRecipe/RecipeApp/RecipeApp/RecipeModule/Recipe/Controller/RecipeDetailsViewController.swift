@@ -8,7 +8,7 @@
 
 import UIKit
 
-protocol RecipeDeleteProtocol: class {
+protocol RecipeDeleteProtocol: AnyObject {
     func deleteRecipe(isDeletedOrEdited: Bool)
 }
 
